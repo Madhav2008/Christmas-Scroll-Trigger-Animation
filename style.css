@@ -22,7 +22,9 @@ section {
     align-items: center;
 }
 
-section::after {content: '';}
+section::after {
+    content: '';
+}
 
 section img#bg {
     position: absolute;
