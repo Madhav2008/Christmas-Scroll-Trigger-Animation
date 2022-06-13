@@ -23,7 +23,8 @@ section {
 }
 
 section::after {
-    content: '';position: absolute;
+    content: '';
+    position: absolute;
 }
 
 section img#bg {
