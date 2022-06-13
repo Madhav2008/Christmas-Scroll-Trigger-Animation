@@ -20,7 +20,7 @@ section {
     display: flex;
     justify-content: center;
     align-items: center;
-}section::after 
+}section::after {}
 
 section img#bg {
     position: absolute;
