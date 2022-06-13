@@ -79,7 +79,7 @@ section #tree {
 
 section #text {
     position: absolute;
-    bottom: 0;
+    bottom: -4000;
     left: 0;
     width: 100%;
     text-align: center;
