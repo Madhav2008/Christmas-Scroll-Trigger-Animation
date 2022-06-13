@@ -45,7 +45,7 @@ section img#cloud1 {
     position: absolute;
     top: 100px;
     left: 50px;
-    max-width: 600px;
+    max-width: 600px;z-index: 2;
 }
 
 section img#cloud2 {
