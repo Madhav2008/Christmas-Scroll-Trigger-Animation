@@ -66,4 +66,6 @@ section img#santa {
     transform: scale(0.5);
 }
 
-section #tree {position: absolute;}
+section #tree {
+    position: absolute;
+}
