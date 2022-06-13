@@ -84,5 +84,5 @@ section #text {
     width: 100%;
     text-align: center;
     color: #fff;
-    font-size: 6em;
+    font-size: 6em;z-index: 11;
 }
