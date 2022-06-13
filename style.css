@@ -77,4 +77,6 @@ section #tree {
     z-index: 10;
 }
 
-section #text {position: absolute;}
+section #text {
+    position: absolute;
+}
