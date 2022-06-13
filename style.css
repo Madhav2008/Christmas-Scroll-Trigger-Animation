@@ -22,4 +22,6 @@ section {
     align-items: center;
 }
 
-section img#bg {position: absolute;}
+section img#bg {
+    position: absolute;
+}
