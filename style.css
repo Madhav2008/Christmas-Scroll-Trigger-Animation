@@ -72,5 +72,5 @@ section #tree {
     left: 0;
     width: 200%;
     height: 266px;
-    background: url(tree.png);
+    background: url(tree.png);background-position-y;
 }
