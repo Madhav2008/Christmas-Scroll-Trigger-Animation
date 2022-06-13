@@ -12,4 +12,6 @@ body {
     height: 200vh;
 }
 
-section {position: fixed;}
+section {
+    position: fixed;
+}
