@@ -80,5 +80,6 @@ section #tree {
 section #text {
     position: absolute;
     bottom: 0;
-    left: 0;width: 100%;
+    left: 0;
+    width: 100%;
 }
