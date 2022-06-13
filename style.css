@@ -79,5 +79,5 @@ section #tree {
 
 section #text {
     position: absolute;
-    bottom: 0;
+    bottom: 0;left: 0;
 }
