@@ -23,5 +23,5 @@ section {
 }
 
 section img#bg {
-    position: absolute;
+    position: absolute;top: 0;
 }
