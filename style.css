@@ -24,7 +24,7 @@ section {
 
 section::after {
     content: '';
-    position: absolute;
+    position: absolute;top: 0;
 }
 
 section img#bg {
